@@ -1,3 +1,3 @@
-# ejemplo-if-else
-### Proyecto Java / Java Application
-## Ejemplo básico de validaciones con (if-else)
+## if-else
+### Proyecto Java Application
+- #### Ejemplo básico de validaciones usando (if-else)
